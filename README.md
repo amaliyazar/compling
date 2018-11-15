@@ -3,7 +3,7 @@
 
 [Файл](https://github.com/amaliyazar/compling/blob/master/7.py)
 
-![Code](/Users/amaliya/Desktop/code.png)
+![Code](https://github.com/amaliyazar/compling/blob/master/code.png)
 ### Использованные библиотеки:
 * pymorphy2
 
