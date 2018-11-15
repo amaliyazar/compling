@@ -3,7 +3,7 @@
 
 [Файл](https://github.com/amaliyazar/compling/blob/master/7.py)
 
-![Code](//Users/amaliya/Desktop/Снимок%20экрана%202018-11-15%20в%2015.38.48.pngg)
+![Code](/Users/amaliya/Desktop/Снимок%20экрана%202018-11-15%20в%2015.38.48.pngg)
 ### Использованные библиотеки:
 * pymorphy2
 
