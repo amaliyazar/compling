@@ -1,7 +1,7 @@
 # [ Compling ]
 Программа, проводящая морфологическкий анализ текста
 
-[Файл](https://github.com/amaliyazar/compling/blob/master/7.py)
+[Файл с кодом](https://github.com/amaliyazar/compling/blob/master/7.py)
 
 ![Code](https://github.com/amaliyazar/compling/blob/master/code.png)
 ### Использованные библиотеки:
