@@ -1,6 +1,5 @@
 # [ Compling ]
 Программа, проводящая морфологическкий анализ текста
-
 [Файл](https://github.com/amaliyazar/compling/blob/master/7.py)
 
 ### Использованные библиотеки:
