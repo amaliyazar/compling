@@ -20,4 +20,5 @@ _Файл с выводом:_
 [Тык](https://github.com/amaliyazar/compling/blob/master/output.txt)
 
 > Потому что нужно писать на питоне
+>
 > Что за бред?
