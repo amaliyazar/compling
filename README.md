@@ -24,6 +24,7 @@ _Файл с выводом:_
 > Что за бред?
 
 :new_moon:
+:moon:
 :waxing_crescent_moon:
 :first_quarter_moon:
 :waxing_gibbous_moon:
@@ -31,4 +32,4 @@ _Файл с выводом:_
 :waning_gibbous_moon:
 :last_quarter_moon:
 :waning_crescent_moon:
-:moon:
+
