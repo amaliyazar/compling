@@ -31,6 +31,4 @@ _Файл с выводом:_
 :waning_gibbous_moon:
 :last_quarter_moon:
 :waning_crescent_moon:
-:last_quarter_moon_with_face:
-:first_quarter_moon_with_face:
 :moon:
