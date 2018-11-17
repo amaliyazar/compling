@@ -14,9 +14,8 @@
 * Простой Анализ
 
 _Файл с введенным текстом:_
-
 [Тык](https://github.com/amaliyazar/compling/blob/master/input.txt)
 
 _Файл с выводом:_
-
 [Тык](https://github.com/amaliyazar/compling/blob/master/output.txt)
+
