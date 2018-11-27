@@ -7,11 +7,10 @@ from nltk.stem.snowball import SnowballStemmer
 
 
 text=''
-file_text=open('input.txt', 'r', encoding="utf-8")
-text_res = open("output.txt", "w")
+file_text=open('input1.txt', 'r', encoding="utf-8")
+text_res = open("output1.txt", "w")
 for line in file_text:
 	text+=line
-text_res = open("output.txt", "w")
 
 
 punktuation = [".", ",", ";", "!", "?", "«", "»", "-"]
